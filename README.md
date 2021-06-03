@@ -1,5 +1,9 @@
 BOBBY LOWI
+
+
 Image Processing
+
+
 Dengan mengikuti perkembangan zaman, tentunya teknologi juga semakin berkembang. Semakin banyak penemuan-penemuan baru dan juga pengembangan dari teknologi yang sudah pernah ada sebelumnya yang memberikan berbagai dampak positif bagi kehidupan manusia. Salah satunya adalah dalam hal image processing. Kata image yang berarti gambar, memiliki banyak kegunaan dalam kehidupan sehari-hari. Gambar memberikan suatu informasi, interpretasi, ilustrasi, evaluasi, komunikasi dan hiburan bagi kita.
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-image-processing-python?utm_source=github&utm_medium=repository&utm_campaign=9781789343731 "><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/c/o/cover_11017.png" alt="Hands-On Image Processing with Python" height="256px" align="right"></a>
