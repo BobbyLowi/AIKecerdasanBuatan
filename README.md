@@ -23,9 +23,6 @@ viewer = viewer.ImageViewer(im)
 viewer.show()
 ```
 
-**Following is what you need for this book:**
-This book is for Computer Vision Engineers, and machine learning developers who are good with Python programming and want to explore details and complexities of image processing. No prior knowledge of the image processing techniques is expected.	
-
 With the following software and hardware list you can run all code files present in the book (Chapter 1-12).
 ### Software and Hardware List
 | Chapter | Software required | OS required |
